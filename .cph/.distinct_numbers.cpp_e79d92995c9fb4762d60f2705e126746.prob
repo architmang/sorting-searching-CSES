@@ -1,0 +1,1 @@
+{"name":"Local: distinct_numbers","url":"/Users/archit/Desktop/sorting-searching-CSES/distinct_numbers.cpp","tests":[{"id":1765484845463,"input":"5\n2 3 2 2 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/archit/Desktop/sorting-searching-CSES/distinct_numbers.cpp","group":"local","local":true}
