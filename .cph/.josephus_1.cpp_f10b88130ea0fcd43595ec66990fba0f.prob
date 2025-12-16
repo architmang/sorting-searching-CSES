@@ -1,0 +1,1 @@
+{"name":"Local: josephus_1","url":"/Users/archit/Desktop/sorting-searching-CSES/josephus_1.cpp","tests":[{"id":1765807080450,"input":"7","output":"2 4 6 1 5 3 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/archit/Desktop/sorting-searching-CSES/josephus_1.cpp","group":"local","local":true}

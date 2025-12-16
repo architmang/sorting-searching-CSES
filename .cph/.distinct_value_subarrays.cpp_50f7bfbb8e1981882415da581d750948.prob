@@ -1,0 +1,1 @@
+{"name":"Local: distinct_value_subarrays","url":"/Users/archit/Desktop/sorting-searching-CSES/distinct_value_subarrays.cpp","tests":[{"id":1765920290194,"input":"4\n1 2 1 3","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/archit/Desktop/sorting-searching-CSES/distinct_value_subarrays.cpp","group":"local","local":true}
