@@ -1,0 +1,1 @@
+{"name":"Local: nearest_smaller_values","url":"/Users/archit/Desktop/sorting-searching-CSES/nearest_smaller_values.cpp","tests":[{"id":1766681695087,"input":"8\n2 5 1 4 8 3 2 5","output":"0 1 0 3 4 3 3 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/archit/Desktop/sorting-searching-CSES/nearest_smaller_values.cpp","group":"local","local":true}

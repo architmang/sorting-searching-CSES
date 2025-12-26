@@ -1,0 +1,1 @@
+{"name":"Local: subarray_divisibility","url":"/Users/archit/Desktop/sorting-searching-CSES/subarray_divisibility.cpp","tests":[{"id":1766733398258,"input":"5\n3 1 2 7 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/archit/Desktop/sorting-searching-CSES/subarray_divisibility.cpp","group":"local","local":true}
